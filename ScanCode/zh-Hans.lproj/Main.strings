@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "泡泡兵"; ObjectID = "36m-NK-FDX"; */
+"36m-NK-FDX.text" = "泡泡兵";
+
+/* Class = "UILabel"; text = "将二维码/条形码放入框内,即可自动扫描"; ObjectID = "3vK-YD-pY5"; */
+"3vK-YD-pY5.text" = "将二维码/条形码放入框内,即可自动扫描";
+
+/* Class = "UILabel"; text = "广东 深圳"; ObjectID = "8Fd-Ca-ezU"; */
+"8Fd-Ca-ezU.text" = "广东 深圳";
+
+/* Class = "UILabel"; text = "扫一扫上面的二维码图案,加我好友哟"; ObjectID = "Nqk-DO-fs2"; */
+"Nqk-DO-fs2.text" = "扫一扫上面的二维码图案,加我好友哟";
+
+/* Class = "UILabel"; text = "扫一扫"; ObjectID = "R0W-yj-if3"; */
+"R0W-yj-if3.text" = "扫一扫";
+
+/* Class = "UIViewController"; title = "我的二维码"; ObjectID = "XZI-qw-GJ2"; */
+"XZI-qw-GJ2.title" = "我的二维码";
+
+/* Class = "UILabel"; text = "我的二维码"; ObjectID = "aRD-B7-nv9"; */
+"aRD-B7-nv9.text" = "我的二维码";
+
+/* Class = "UIViewController"; title = "扫一扫"; ObjectID = "dfD-vp-eSt"; */
+"dfD-vp-eSt.title" = "扫一扫";
+
+/* Class = "UINavigationItem"; title = "二维码"; ObjectID = "mmP-XV-afW"; */
+"mmP-XV-afW.title" = "二维码";
