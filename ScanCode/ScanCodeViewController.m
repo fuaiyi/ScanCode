@@ -186,12 +186,12 @@ const static CGFloat animationTime = 2.5f;//扫描时长
                 _contentLabel.alpha = 1;
                 _boxLayoutConstraint.constant = [UIScreen mainScreen].bounds.size.width*0.6;
                 [self.view layoutIfNeeded];
-                self.captureMetadataOutput.rectOfInterest = [self.captureVideoPreviewLayer metadataOutputRectOfInterestForRect:_scanPane.frame];
             } completion:^(BOOL finished) {
                 _scanLine.frame = CGRectMake(0 , 0, [UIScreen mainScreen].bounds.size.width*0.6, 3);
                 [_scanLine.layer addAnimation:[self moveAnimation] forKey:nil];
                 [self setScanReact:NO];
             }];
+            self.captureMetadataOutput.rectOfInterest = [self.captureVideoPreviewLayer metadataOutputRectOfInterestForRect:_scanPane.frame];
         });
     });
 }
